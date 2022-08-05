@@ -1,0 +1,12 @@
+body {
+  color: red; }
+
+.barranav {
+  list-style: none; }
+  .barranav li {
+    font-size: 20px; }
+    .barranav li a {
+      text-decoration: none; }
+
+footer {
+  color: red; }

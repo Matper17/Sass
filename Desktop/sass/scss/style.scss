@@ -1,0 +1,17 @@
+$variable: red;
+
+body{
+    color: $variable;
+}
+.barranav{
+    list-style: none;
+    li{
+        font-size: 20px;
+        a{
+            text-decoration: none;
+        }
+    }
+}
+footer{
+    color: $variable;
+}
